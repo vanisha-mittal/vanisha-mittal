@@ -101,8 +101,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
 </div>
 <br>
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp?cid=ecf05e475f7zoc8644trodoo9keuyycj31qwv4w2hyp9hx5u&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
-</div>
+
 
 ###
