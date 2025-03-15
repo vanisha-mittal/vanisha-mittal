@@ -70,17 +70,16 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 ![](https://github-readme-stats.vercel.app/api?username=vanisha-mittal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vanisha-mittal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanisha-mittal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vanisha-mittal/count.svg?"  />
-</div>
 
 ###
+
 
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp?cid=ecf05e475f7zoc8644trodoo9keuyycj31qwv4w2hyp9hx5u&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
