@@ -17,7 +17,7 @@
     <img src="./image.webp" height="25" alt="leetcode logo"  />
   </a>
   <a href="https://codeforces.com/profile/vanishamittal1409" target="_blank">
-    <img src="./image.png" height="25" alt="codeforces logo"  />
+    <img src="./image1.webp" height="25" alt="codeforces logo"  />
   </a>
 </div>
 
