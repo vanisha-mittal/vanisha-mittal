@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 👩‍💻 A highly motivated Computer Science student.<br>- 💻 Proficient Java and web technologies<br>- 📚 I'm currently learning backend development.<br>- 🕵️ Seeking an internship or entry-level role where I can apply my skills in data-driven solutions.</p>
+<p align="left">- 👩‍💻 A highly motivated Computer Science student.<br>- 💻 Proficient Java and web technologies<br>- 🚀 Exploring backend development.<br>- 🕵️ Seeking an internship or entry-level role where I can apply my skills in data-driven solutions.</p>
 
 ###
 
