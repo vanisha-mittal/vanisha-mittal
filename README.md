@@ -6,6 +6,7 @@
 
 ###
 
+
 <div align="center">
   <a href="https://www.linkedin.com/in/vanisha-mittal-2133b5302/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -22,15 +23,18 @@
 </div>
 
 ###
-
-<h1 align="center">Hey there !!👋<br> I'm Vanisha Mittal from India</h1>
-
-###
+<h2 align="center" >Hi, I'm Vanisha Mittal <br><p style="font-size: 16px;"> <em>B.tech with Computer science at <a href="https://www.gla.ac.in/">GLA University, Mathura</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJtdnJ1eG04MTg4NnJjbWtod2E0MWVlNHp1Z25namsybzM0YWp1dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ixN1f5UlViepnCjHkn/giphy.gif" width="30"> 
+</em></p></h2>
 
 
 ###
 
-<p align="left">- 👩‍💻 A highly motivated Computer Science student.<br>- 💻 Proficient Java and web technologies<br>- 🚀 Exploring backend development.<br>- 🕵️ Seeking an internship or entry-level role where I can apply my skills in data-driven solutions.</p>
+###
+
+<p align="left"><p align="center">
+  <a href="https://github.com/vanisha-mittal">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20and%20Web%20Tech%20proficient;Interested%20in%20Real life%20problems%20;Always%20learning%20new%20things&font=Courier%20New%20Code&center=true&width=440&height=45&color=4e509c&vCenter=true&pause=500&size=20" /></a>
+</p></p>
 
 ###
 
@@ -90,13 +94,22 @@
 
 
 <div align="center">
-  <h2 align="left">🏆 GitHub Trophies</h2>
+  <h2 align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB0OWp0MWttdzExdzZvajZ5MXVoejFldjFlc2pmYnd3c3BiamxoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zjPuT0erGMWONFdxEl/giphy.gif" width="60"> <em>GitHub Trophies </em></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=vanisha-mittal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   
-  <h3 align="left">✍️</h3>
+  <h3 align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejltYjdyZ2thamdxN2l0NGlnZHRtanpycnRmZGt3d3ViNG9ob3QxMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uBbM1cpCJiQRDtSDM8/giphy.gif" width="60"> 
+</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
 </div>
 <br>
 
 
-###
+
+
+
+
+
+
+
+
+
