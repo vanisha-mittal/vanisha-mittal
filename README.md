@@ -30,11 +30,12 @@
 ###
 
 ###
-
-<p align="left"><p align="center">
+<p align="center">
   <a href="https://github.com/vanisha-mittal">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20and%20Web%20Tech%20proficient;Interested%20in%20Real life%20problems%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=4e509c&vCenter=true&pause=500&size=20" /></a>
-</p></p>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20and%20Web%20Tech%20proficient;Interested%20in%20Real%20life%20problems;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=4e509c&vCenter=true&pause=500&size=20" />
+  </a>
+</p>
+
 
 ###
 
