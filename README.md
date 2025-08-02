@@ -1,10 +1,12 @@
 
-
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e47f6cbxs2y92zf69c6teu1cl49m7ljckaa1gbblbxb&ep=v1_stickers_related&rid=giphy.gif&ct=s"  />
+ <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRwcmp5eG9icGkzcHU3MXJhZXpqNDV5NWRiNmxmeHpwYnF0ZmozdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+  
 </div>
 
 ###
+<h2 align="center" > Hi, I'm Vanisha Mittal! <img width="50" src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e47f6cbxs2y92zf69c6teu1cl49m7ljckaa1gbblbxb&ep=v1_stickers_related&rid=giphy.gif&ct=s"  /><br><p style="font-size: 16px;"> <em>B.tech with Computer science at <a href="https://www.gla.ac.in/">GLA University, Mathura</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJtdnJ1eG04MTg4NnJjbWtod2E0MWVlNHp1Z25namsybzM0YWp1dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ixN1f5UlViepnCjHkn/giphy.gif" width="30"> 
+</em></p></h2>
 
 
 <div align="center">
@@ -23,18 +25,17 @@
 </div>
 
 ###
-<h2 align="center" >Hi, I'm Vanisha Mittal <br><p style="font-size: 16px;"> <em>B.tech with Computer science at <a href="https://www.gla.ac.in/">GLA University, Mathura</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJtdnJ1eG04MTg4NnJjbWtod2E0MWVlNHp1Z25namsybzM0YWp1dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ixN1f5UlViepnCjHkn/giphy.gif" width="30"> 
-</em></p></h2>
 
 
 ###
 
 ###
-
-<p align="left"><p align="center">
+<p align="center">
   <a href="https://github.com/vanisha-mittal">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20and%20Web%20Tech%20proficient;Interested%20in%20Real life%20problems%20;Always%20learning%20new%20things&font=Courier%20New%20Code&center=true&width=440&height=45&color=4e509c&vCenter=true&pause=500&size=20" /></a>
-</p></p>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20and%20Web%20Tech%20proficient;Interested%20in%20Real%20life%20problems;Always%20learning%20new%20things&font=Jetbrains+mono&center=true&width=440&height=45&color=4e509c&vCenter=true&pause=500&size=20" />
+  </a>
+</p>
+
 
 ###
 
@@ -77,7 +78,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/vanisha-mittal/vanisha-mittal/output/github-snake.svg" />
 </picture>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"><em>🔥   My Stats </em></h3>
 
 ###
 <div align="center">
@@ -94,22 +95,15 @@
 
 
 <div align="center">
-  <h2 align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB0OWp0MWttdzExdzZvajZ5MXVoejFldjFlc2pmYnd3c3BiamxoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zjPuT0erGMWONFdxEl/giphy.gif" width="60"> <em>GitHub Trophies </em></h2>
+  <h3 align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB0OWp0MWttdzExdzZvajZ5MXVoejFldjFlc2pmYnd3c3BiamxoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zjPuT0erGMWONFdxEl/giphy.gif" width="60"> <em>GitHub Trophies </em></h3>
   <img src="https://github-profile-trophy.vercel.app/?username=vanisha-mittal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-  
+  <h3 align="left"><em>📈 Contribution Graph</em></h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanisha-mittal&theme=react-dark&hide_border=true" alt="Contribution Graph" /> <!-- graph -->
   <h3 align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejltYjdyZ2thamdxN2l0NGlnZHRtanpycnRmZGt3d3ViNG9ob3QxMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uBbM1cpCJiQRDtSDM8/giphy.gif" width="60"> 
 </h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
 </div>
 <br>
 
-
-
-
-
-
-
-
-
-
-
+---
