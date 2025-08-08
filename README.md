@@ -30,11 +30,16 @@
 ###
 
 ###
-<p align="center">
-  <a href="https://github.com/vanisha-mittal">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20and%20Web%20Tech%20proficient;Interested%20in%20Real%20life%20problems;Always%20learning%20new%20things&font=Jetbrains+mono&center=true&width=440&height=45&color=4e509c&vCenter=true&pause=500&size=20" />
-  </a>
+<div>
+<p align="left">
+   Part explorer, part architect, I build web applications that don’t just work—they inspire. Driven by curiosity and innovation, I design digital experiences that balance speed, beauty, and clarity in every line of code.<br>
+ <ul>
+ <li>💼 Open to new opportunities as a Software Developer—whether it’s shaping seamless frontends, building powerful backends, or crafting full-stack magic.</li>
+ <li>📫 Drop me a line at: vanishamittal1409@gmail.com</li>
+ </ul>
+<!--     <img src="https://readme-typing-svg.demolab.com/?lines=Java%20and%20Web%20Tech%20proficient;Interested%20in%20Real%20life%20problems;Always%20learning%20new%20things&font=Jetbrains+mono&center=true&width=440&height=45&color=4e509c&vCenter=true&pause=500&size=20" /> -->
 </p>
+</div>
 
 
 ###
@@ -43,32 +48,80 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  
+
+<div align="left">
+ <table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+      <br /><span style="color:black">Java</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+      <br /><span style="color:black">Python</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+      <br /><span style="color:black">JavaScript</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" />
+      <br /><span style="color:black">C</span>
+    </td>
+   <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" />
+      <br /><span style="color:black">MySQL</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48" />
+      <br /><span style="color:black">React</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" />
+      <br /><span style="color:black">HTML5</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" />
+      <br /><span style="color:black">CSS3</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48" />
+      <br /><span style="color:black">Bootstrap</span>
+    </td>
+   <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
+      <br /><span style="color:black">Tailwind CSS</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48" />
+      <br /><span style="color:black">Node.js</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="48" height="48" />
+      <br /><span style="color:black">Express.js</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" />
+      <br /><span style="color:black">MongoDB</span>
+    </td>
+   <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+      <br /><span style="color:black">Git</span>
+    </td>
+   <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
+      <br /><span style="color:black">Postman</span>
+    </td>
+  </tr>
+ 
+</table>
+
+
+
 </div>
 
 ###
