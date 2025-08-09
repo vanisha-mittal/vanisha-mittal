@@ -69,8 +69,8 @@
       <br /><span style="color:black">C</span>
     </td>
    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" />
-      <br /><span style="color:black">MySQL</span>
+      <img src="https://cdn.simpleicons.org/r/276DC3" alt="MySQL" width="48" height="48" />
+      <br /><span style="color:black">R</span>
     </td>
   </tr>
   <tr>
@@ -109,15 +109,58 @@
       <br /><span style="color:black">MongoDB</span>
     </td>
    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="48" height="48" />
+      <br /><span style="color:black">MySQL</span>
+    </td>
+   <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/jquery/0769AD" alt="JQuery" width="48" height="48" />
+      <br /><span style="color:black">JQuery</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48" />
+      <br /><span style="color:black">Pandas</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="48" height="48" />
+      <br /><span style="color:black">Numpy</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="selenium" width="48" height="48" />
+      <br /><span style="color:black">Selenium</span>
+    </td>
+   <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="Tensorflow" width="48" height="48" />
+      <br /><span style="color:black">TensorFlow</span>
+    </td>
+   <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="kaggle" width="48" height="48" />
+      <br /><span style="color:black">Kaggle</span>
+    </td>
+  </tr>
+ <tr>
+  <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
       <br /><span style="color:black">Git</span>
+    </td>
+  <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/github/181717" alt="github" width="48" height="48" />
+      <br /><span style="color:black">GitHub</span>
     </td>
    <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
       <br /><span style="color:black">Postman</span>
     </td>
-  </tr>
- 
+  <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="firebase" width="48" height="48" />
+      <br /><span style="color:black">Firebase</span>
+    </td>
+  <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
+      <br /><span style="color:black">Jupyter</span>
+    </td>
+ </tr>
 </table>
 
 
