@@ -187,12 +187,13 @@
 
 ###
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-VanishaMittal09-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/VanishaMittal09/)
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/VanishaMittal09?theme=dark&font=baloo)
 
 <div align="center">
   <h3 align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB0OWp0MWttdzExdzZvajZ5MXVoejFldjFlc2pmYnd3c3BiamxoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zjPuT0erGMWONFdxEl/giphy.gif" width="60"> <em>GitHub Trophies </em></h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=vanisha-mittal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app?username=vanisha-mittal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <h3 align="left"><em>📈 Contribution Graph</em></h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanisha-mittal&theme=react-dark&hide_border=true" alt="Contribution Graph" /> <!-- graph -->
