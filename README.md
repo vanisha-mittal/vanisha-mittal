@@ -177,7 +177,7 @@
 <h3 align="left"><em>🔥   My Stats </em></h3>
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vanisha-mittal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=vanisha-mittal&theme=dark&hide_border=false" alt="GitHub Streak Stats">
