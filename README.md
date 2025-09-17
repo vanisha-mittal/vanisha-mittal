@@ -168,11 +168,7 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanisha-mittal/vanisha-mittal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanisha-mittal/vanisha-mittal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vanisha-mittal/vanisha-mittal/output/github-snake.svg" />
-</picture>
+
 
 <h3 align="left"><em>🔥   My Stats </em></h3>
 
@@ -202,5 +198,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
 </div>
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanisha-mittal/vanisha-mittal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanisha-mittal/vanisha-mittal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vanisha-mittal/vanisha-mittal/output/github-snake.svg" />
+</picture>
 
 ---
