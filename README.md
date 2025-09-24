@@ -11,18 +11,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vanisha-mittal-2133b5302/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:vanishamittal1409@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://leetcode.com/u/VanishaMittal09/" target="_blank">
-    <img src="./image.webp" height="25" alt="leetcode logo"  />
+    <img src="https://img.shields.io/badge/LeetCode-Vanisha-orange?style=for-the-badge&logo=leetcode" height="25" />
   </a>
   <a href="https://codeforces.com/profile/vanishamittal1409" target="_blank">
-    <img src="./image1.webp" height="25" alt="codeforces logo"  />
+    <img src="https://img.shields.io/badge/Codeforces-Vanisha-blue?style=for-the-badge&logo=codeforces" height="25" />
   </a>
 </div>
+
 
 ###
 
