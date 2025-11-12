@@ -194,7 +194,7 @@
   <h3 align="left"><em>📈 Contribution Graph</em></h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanisha-mittal&theme=react-dark&hide_border=true" alt="Contribution Graph" /> <!-- graph -->
-  <h3 align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejltYjdyZ2thamdxN2l0NGlnZHRtanpycnRmZGt3d3ViNG9ob3QxMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uBbM1cpCJiQRDtSDM8/giphy.gif" width="60"> 
+  <h3 align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejltYjdyZ2thamdxN2l0NGlnZHRtanpycnRmZGt3d3ViNG9ob3QxMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uBbM1cpCJiQRDtSDM8/giphy.gif" width="60"> Quote Of The Day
 </h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
 </div>
