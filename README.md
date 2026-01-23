@@ -1,10 +1,9 @@
-
-<div align="center">
+ 
+<!-- <div align="center">
  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRwcmp5eG9icGkzcHU3MXJhZXpqNDV5NWRiNmxmeHpwYnF0ZmozdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
   
-</div>
+</div> -->
 
-###
 <h2 align="center" > Hi, I'm Vanisha Mittal! <img width="50" src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e47f6cbxs2y92zf69c6teu1cl49m7ljckaa1gbblbxb&ep=v1_stickers_related&rid=giphy.gif&ct=s"  /><br><p style="font-size: 16px;"> <em>B.tech with Computer science at <a href="https://www.gla.ac.in/">GLA University, Mathura</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJtdnJ1eG04MTg4NnJjbWtod2E0MWVlNHp1Z25namsybzM0YWp1dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ixN1f5UlViepnCjHkn/giphy.gif" width="30"> 
 </em></p></h2>
 
@@ -23,17 +22,12 @@
     <img src="https://img.shields.io/badge/Codeforces-Vanisha-blue?style=for-the-badge&logo=codeforces" height="25" />
   </a>
 </div>
+<br>
 
 
-###
 
-
-###
-
-###
 <div>
 <p align="left">
-   Part explorer, part architect, I build web applications that don’t just work—they inspire. Driven by curiosity and innovation, I design digital experiences that balance speed, beauty, and clarity in every line of code.<br>
  <ul>
  <li>💼 Open to new opportunities as a Software Developer—whether it’s shaping seamless frontends, building powerful backends, or crafting full-stack magic.</li>
  <li>📫 Drop me a line at: vanishamittal1409@gmail.com</li>
@@ -69,10 +63,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" />
       <br /><span style="color:black">C</span>
     </td>
-   <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/r/276DC3" alt="MySQL" width="48" height="48" />
-      <br /><span style="color:black">R</span>
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -87,14 +77,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" />
       <br /><span style="color:black">CSS3</span>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48" />
-      <br /><span style="color:black">Bootstrap</span>
-    </td>
-   <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
-      <br /><span style="color:black">Tailwind CSS</span>
-    </td>
+   <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" /> <br /><span style="color:purple">Bootstrap</span> 
+   </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -110,15 +94,11 @@
       <br /><span style="color:black">MongoDB</span>
     </td>
    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="48" height="48" />
-      <br /><span style="color:black">MySQL</span>
-    </td>
-   <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/jquery/0769AD" alt="JQuery" width="48" height="48" />
-      <br /><span style="color:black">JQuery</span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Mysql" width="48" height="48" />
+      <br /><span style="color:black">PostgreSQL</span>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48" />
       <br /><span style="color:black">Pandas</span>
@@ -139,14 +119,14 @@
       <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="kaggle" width="48" height="48" />
       <br /><span style="color:black">Kaggle</span>
     </td>
-  </tr>
+  </tr> -->
  <tr>
   <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
       <br /><span style="color:black">Git</span>
     </td>
   <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github/181717" alt="github" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="48" height="48" />
       <br /><span style="color:black">GitHub</span>
     </td>
    <td align="center" width="96">
@@ -154,12 +134,8 @@
       <br /><span style="color:black">Postman</span>
     </td>
   <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="firebase" width="48" height="48" />
-      <br /><span style="color:black">Firebase</span>
-    </td>
-  <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
-      <br /><span style="color:black">Jupyter</span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="firebase" width="48" height="48" />
+      <br /><span style="color:black">VSCode</span>
     </td>
  </tr>
 </table>
@@ -167,37 +143,32 @@
 
 
 </div>
+<br>
+<div align="left">
 
-###
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanisha-mittal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanisha-mittal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanisha-mittal&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanisha-mittal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanisha-mittal&theme=github_dark)
 
 
-<h3 align="left"><em>🔥   My Stats </em></h3>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanisha-mittal&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/vanisha-mittal/github-readme-activity-graph)
+
+</div>
+<!-- --------------------------------- -->
+
+
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanisha-mittal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=vanisha-mittal&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanisha-mittal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 ###
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-VanishaMittal09-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/VanishaMittal09/)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VanishaMittal09?theme=dark&font=baloo)
 
-<div align="center">
-  <h3 align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB0OWp0MWttdzExdzZvajZ5MXVoejFldjFlc2pmYnd3c3BiamxoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zjPuT0erGMWONFdxEl/giphy.gif" width="60"> <em>GitHub Trophies </em></h3>
-  <img src="https://github-profile-trophy.vercel.app?username=vanisha-mittal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <h3 align="left"><em>📈 Contribution Graph</em></h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanisha-mittal&theme=react-dark&hide_border=true" alt="Contribution Graph" /> <!-- graph -->
-  <h3 align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejltYjdyZ2thamdxN2l0NGlnZHRtanpycnRmZGt3d3ViNG9ob3QxMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uBbM1cpCJiQRDtSDM8/giphy.gif" width="60"> Quote Of The Day
-</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
-</div>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanisha-mittal/vanisha-mittal/output/github-snake-dark.svg" />
