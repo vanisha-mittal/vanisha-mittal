@@ -146,14 +146,14 @@
 <br>
 <div align="left">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanisha-mittal&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanisha-mittal&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanisha-mittal&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanisha-mittal&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanisha-mittal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanisha-mittal&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanisha-mittal&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanisha-mittal&theme=blueberry&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanisha-mittal&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanisha-mittal&theme=blueberry)
 
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanisha-mittal&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/vanisha-mittal/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanisha-mittal&bg_color=242938&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/vanisha-mittal/github-readme-activity-graph)
 
 </div>
 <!-- --------------------------------- -->
@@ -162,12 +162,11 @@
 
 ###
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vanisha-mittal&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vanisha-mittal&theme=blueberry&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
 ###
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/VanishaMittal09?theme=dark&font=baloo)
 
 <br>
 <picture>
