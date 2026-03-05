@@ -18,7 +18,7 @@
   <a href="https://leetcode.com/u/VanishaMittal09/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Vanisha-orange?style=for-the-badge&logo=leetcode" height="25" />
   </a>
-  <a href="https://codeforces.com/profile/vanishamittal1409" target="_blank">
+  <a href="https://codeforces.com/profile/vv12388" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Vanisha-blue?style=for-the-badge&logo=codeforces" height="25" />
   </a>
 </div>
